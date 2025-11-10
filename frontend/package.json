@@ -1,0 +1,9 @@
+{
+  "name": "beatmatchr-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Simple development server for the beatmatchr frontend.",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}

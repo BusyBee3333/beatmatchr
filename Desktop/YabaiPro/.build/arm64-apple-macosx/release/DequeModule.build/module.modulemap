@@ -1,0 +1,4 @@
+module DequeModule {
+    header "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/DequeModule.build/DequeModule-Swift.h"
+    requires objc
+}

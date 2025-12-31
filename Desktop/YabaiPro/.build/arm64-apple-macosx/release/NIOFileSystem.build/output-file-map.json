@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOFileSystem.build/NIOFileSystem.d",
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOFileSystem.build/NIOFileSystem.o",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOFileSystem.build/master.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOFileSystem/Exports.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOFileSystem.build/Exports.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOFileSystem.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOFileSystem.build/Exports.swiftdeps"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "": {
+    "dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiPro.d",
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiPro.o",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/master.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/AnimationPerformanceManager.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/AnimationPerformanceManager.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/AnimationPerformanceManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/AnimationPerformanceManager.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/AnimationTestHarness.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/AnimationTestHarness.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/AnimationTestHarness~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/AnimationTestHarness.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/AnimationTypes.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/AnimationTypes.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/AnimationTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/AnimationTypes.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/CanvasFallbackView.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/CanvasFallbackView.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/CanvasFallbackView~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/CanvasFallbackView.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/CommandPaletteView.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/CommandPaletteView.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/CommandPaletteView~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/CommandPaletteView.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/ComprehensiveSettingsViewModel.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/ComprehensiveSettingsViewModel.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/ComprehensiveSettingsViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/ComprehensiveSettingsViewModel.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/ConfigManager.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/ConfigManager.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/ConfigManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/ConfigManager.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/HoverMagnificationManager.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/HoverMagnificationManager.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/HoverMagnificationManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/HoverMagnificationManager.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/MainSettingsView.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MainSettingsView.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MainSettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MainSettingsView.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/MainWindowController.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MainWindowController.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MainWindowController~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MainWindowController.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/MetalAnimationEngine.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MetalAnimationEngine.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MetalAnimationEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MetalAnimationEngine.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/MetalAnimationView.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MetalAnimationView.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MetalAnimationView~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/MetalAnimationView.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/Models/PresetConfig.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/PresetConfig.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/PresetConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/PresetConfig.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/Models/YabaiRule.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiRule.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiRule~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiRule.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/Models/YabaiSignal.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiSignal.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiSignal~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiSignal.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/PerformanceMonitor.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/PerformanceMonitor.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/PerformanceMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/PerformanceMonitor.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/PermissionsManager.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/PermissionsManager.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/PermissionsManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/PermissionsManager.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/RemoteAuthManager.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RemoteAuthManager.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RemoteAuthManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RemoteAuthManager.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/RemoteServer.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RemoteServer.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RemoteServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RemoteServer.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/RuleEditorView.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RuleEditorView.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RuleEditorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RuleEditorView.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/RuleEditorWindowController.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RuleEditorWindowController.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RuleEditorWindowController~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/RuleEditorWindowController.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/SettingsView.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/SettingsView.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/SettingsViewModel.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/SettingsViewModel.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/SettingsViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/SettingsViewModel.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/StatusBarController.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/StatusBarController.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/StatusBarController~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/StatusBarController.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/SystemTransparencyManager.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/SystemTransparencyManager.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/SystemTransparencyManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/SystemTransparencyManager.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/TrackpadGestureManager.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/TrackpadGestureManager.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/TrackpadGestureManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/TrackpadGestureManager.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/WebRuleEditorViewController.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/WebRuleEditorViewController.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/WebRuleEditorViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/WebRuleEditorViewController.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/WindowAnimationManager.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/WindowAnimationManager.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/WindowAnimationManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/WindowAnimationManager.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/WindowMetalBinder.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/WindowMetalBinder.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/WindowMetalBinder~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/WindowMetalBinder.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/YabaiCommandRunner.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiCommandRunner.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiCommandRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiCommandRunner.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/YabaiProApp.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiProApp.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiProApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiProApp.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/Sources/YabaiScriptingAdditionManager.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiScriptingAdditionManager.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiScriptingAdditionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/YabaiPro.build/YabaiScriptingAdditionManager.swiftdeps"
+  }
+}

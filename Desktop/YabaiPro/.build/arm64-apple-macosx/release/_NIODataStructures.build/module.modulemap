@@ -1,0 +1,4 @@
+module _NIODataStructures {
+    header "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/_NIODataStructures.build/_NIODataStructures-Swift.h"
+    requires objc
+}

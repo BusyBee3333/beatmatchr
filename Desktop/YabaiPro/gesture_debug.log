@@ -1,0 +1,80 @@
+🚀 YabaiPro Metal Capabilities:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📱 GPU: Apple M3 Pro
+🎯 Metal 3: ✅ Supported
+   └── Advanced GPU features available
+🔧 Metal Animation Engine created (lazy initialization)
+🔄 Lazy-initializing Metal...
+✅ Metal shaders loaded
+   ✅ Function 'liquidBorderVertex' found
+   ✅ Function 'liquidBorderFragment' found
+   ✅ Function 'particleVertex' found
+   ✅ Function 'particleFragment' found
+   ✅ Function 'rippleVertex' found
+   ✅ Function 'rippleFragment' found
+✅ Liquid border pipeline created
+✅ Particle pipeline created
+✅ Ripple pipeline created
+🎨 Enhanced Rendering: ✅ Available
+✅ Metal initialized successfully
+🎨 Enhanced Rendering: ✅ Available
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 Starting trackpad gesture monitoring...
+🎧 Starting yabai event subscription...
+✅ Trackpad gesture monitoring started (Accessibility: true)
+Error in yabai event subscription: executionFailed(command: "yabai -m signal --add event=window_focus action=\'echo \"yabai_event_window_focus\" >> /tmp/yabaipro_events\' label=yabaipro_window_focus", error: "invalid value \'window_focus\' for key \'event\'")
+Direct window Metal binding: disabled
+RemoteServer: listening on 127.0.0.1:50168
+Direct window Metal binding: disabled
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+Direct window Metal binding: disabled
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+Direct window Metal binding: disabled
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Two-finger check: 2 touches
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local gesture event received: NSEventType(rawValue: 29)
+🎯 Local ges

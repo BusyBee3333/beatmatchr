@@ -1,0 +1,32 @@
+{
+  "": {
+    "dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/NIOTLS.d",
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/NIOTLS.o",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/master.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/ApplicationProtocolNegotiationHandler.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/ApplicationProtocolNegotiationHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/ApplicationProtocolNegotiationHandler.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOTLS/NIOTypedApplicationProtocolNegotiationHandler.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/NIOTypedApplicationProtocolNegotiationHandler.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/NIOTypedApplicationProtocolNegotiationHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/NIOTypedApplicationProtocolNegotiationHandler.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOTLS/ProtocolNegotiationHandlerStateMachine.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/ProtocolNegotiationHandlerStateMachine.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/ProtocolNegotiationHandlerStateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/ProtocolNegotiationHandlerStateMachine.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/SNIHandler.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/SNIHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/SNIHandler.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/TLSEvents.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/TLSEvents~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOTLS.build/TLSEvents.swiftdeps"
+  }
+}

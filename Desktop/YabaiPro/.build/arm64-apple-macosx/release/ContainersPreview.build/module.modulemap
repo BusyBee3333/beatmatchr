@@ -1,0 +1,4 @@
+module ContainersPreview {
+    header "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/ContainersPreview.build/ContainersPreview-Swift.h"
+    requires objc
+}

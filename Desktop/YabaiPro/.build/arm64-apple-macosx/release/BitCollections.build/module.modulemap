@@ -1,0 +1,4 @@
+module BitCollections {
+    header "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/BitCollections.build/BitCollections-Swift.h"
+    requires objc
+}

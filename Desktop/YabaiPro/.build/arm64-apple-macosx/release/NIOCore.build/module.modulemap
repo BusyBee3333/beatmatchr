@@ -1,0 +1,4 @@
+module NIOCore {
+    header "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOCore.build/NIOCore-Swift.h"
+    requires objc
+}

@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/master.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/Sources/AnimationTypes.swift": {
+    "dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/AnimationTypes.d",
+    "object": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/AnimationTypes.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/AnimationTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/AnimationTypes.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/Sources/CanvasFallbackView.swift": {
+    "dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/CanvasFallbackView.d",
+    "object": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/CanvasFallbackView.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/CanvasFallbackView~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/CanvasFallbackView.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/Sources/MetalAnimationEngine.swift": {
+    "dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/MetalAnimationEngine.d",
+    "object": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/MetalAnimationEngine.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/MetalAnimationEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/MetalAnimationEngine.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/Sources/MetalAnimationView.swift": {
+    "dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/MetalAnimationView.d",
+    "object": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/MetalAnimationView.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/MetalAnimationView~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/MetalAnimationView.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/Sources/main.swift": {
+    "dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/main.d",
+    "object": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/main.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/AnimationDemo/.build/arm64-apple-macosx/debug/AnimationDemo.build/main.swiftdeps"
+  }
+}

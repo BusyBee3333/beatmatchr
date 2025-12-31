@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/master.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/_NIOConcurrency/Empty.swift": {
+    "dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty.d",
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty.swiftdeps"
+  }
+}

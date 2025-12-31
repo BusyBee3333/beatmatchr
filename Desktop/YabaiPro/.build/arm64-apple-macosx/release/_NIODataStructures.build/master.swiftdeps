@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "e4ba29558c7ee2e4bf1be00afaf17de2188a2fc15a939c2f4f776ed3e3d1e95a"
+build_start_time: [1767161440, 362294000]
+build_end_time: [1767161441, 964562000]
+inputs:
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/_NIODataStructures/Heap.swift": [1767161438, 685126072]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/_NIODataStructures/PriorityQueue.swift": [1767161438, 685193072]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/_NIODataStructures/_TinyArray.swift": [1767161438, 685289988]

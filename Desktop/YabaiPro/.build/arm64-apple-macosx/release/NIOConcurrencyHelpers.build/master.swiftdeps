@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "d791e0a5e3322b39fa053f139a0ffb609ad977646986cf9a0d1ff63135829554"
+build_start_time: [1767161441, 193996000]
+build_end_time: [1767161442, 90090000]
+inputs:
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOAtomic.swift": [1767161438, 659126685]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLock.swift": [1767161438, 659315726]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLockedValueBox.swift": [1767161438, 659366476]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1767161438, 659418976]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1767161438, 659505226]

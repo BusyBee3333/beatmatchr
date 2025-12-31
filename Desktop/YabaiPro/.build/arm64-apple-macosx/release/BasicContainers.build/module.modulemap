@@ -1,0 +1,4 @@
+module BasicContainers {
+    header "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/BasicContainers.build/BasicContainers-Swift.h"
+    requires objc
+}

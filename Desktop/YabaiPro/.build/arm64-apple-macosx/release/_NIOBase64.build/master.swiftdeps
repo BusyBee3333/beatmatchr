@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "f8db591ad9b79fe0ff819bc2466af9d291aa6bd7f429b5b4ff5763362568d0cb"
+build_start_time: [1767161440, 361292000]
+build_end_time: [1767161441, 13383000]
+inputs:
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/_NIOBase64/Base64.swift": [1767161438, 684746655]

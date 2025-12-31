@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/_NIOFileSystemFoundationCompat.build/_NIOFileSystemFoundationCompat.d",
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/_NIOFileSystemFoundationCompat.build/_NIOFileSystemFoundationCompat.o",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/_NIOFileSystemFoundationCompat.build/master.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/_NIOFileSystemFoundationCompat/Data+FileSystem.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/_NIOFileSystemFoundationCompat.build/Data+FileSystem.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/_NIOFileSystemFoundationCompat.build/Data+FileSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/_NIOFileSystemFoundationCompat.build/Data+FileSystem.swiftdeps"
+  },
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/_NIOFileSystemFoundationCompat/Date+FileInfo.swift": {
+    "object": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/_NIOFileSystemFoundationCompat.build/Date+FileInfo.swift.o",
+    "swiftmodule": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/_NIOFileSystemFoundationCompat.build/Date+FileInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/_NIOFileSystemFoundationCompat.build/Date+FileInfo.swiftdeps"
+  }
+}

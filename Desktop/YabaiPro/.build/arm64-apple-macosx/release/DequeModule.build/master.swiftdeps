@@ -1,0 +1,21 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "113bd34fc5541987d52df19f66de7223f2644b17cee967831c37c391eda3308f"
+build_start_time: [1767161441, 488535000]
+build_end_time: [1767161442, 329512000]
+inputs:
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift": [1767161438, 886081050]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift": [1767161438, 886179216]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift": [1767161438, 886236591]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Descriptions.swift": [1767161438, 886315425]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift": [1767161438, 886400091]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift": [1767161438, 886455633]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift": [1767161438, 886537674]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift": [1767161438, 886589716]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift": [1767161438, 886654424]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift": [1767161438, 886710633]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift": [1767161438, 886839924]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/Deque.swift": [1767161438, 887032841]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift": [1767161438, 887241549]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift": [1767161438, 887289132]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift": [1767161438, 887340840]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift": [1767161438, 887400882]

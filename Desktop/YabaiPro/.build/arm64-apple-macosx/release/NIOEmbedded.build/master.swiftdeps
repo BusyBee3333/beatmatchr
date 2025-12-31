@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "804edc8679d8f458f05cd2b4b01a7fbf831e265b6a533a68e35668a7ab1dfec8"
+build_start_time: [1767161451, 361280000]
+build_end_time: [1767161453, 314909000]
+inputs:
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingChannel.swift": [1767161438, 668599341]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingEventLoop.swift": [1767161438, 668727465]
+  "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/NIOEmbedded/Embedded.swift": [1767161438, 668873882]

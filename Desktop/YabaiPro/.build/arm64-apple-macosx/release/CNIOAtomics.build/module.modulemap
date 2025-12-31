@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella header "/Users/jakeshore/Desktop/YabaiPro/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+    export *
+}

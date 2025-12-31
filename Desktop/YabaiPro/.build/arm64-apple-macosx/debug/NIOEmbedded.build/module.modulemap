@@ -1,0 +1,4 @@
+module NIOEmbedded {
+    header "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/debug/NIOEmbedded.build/NIOEmbedded-Swift.h"
+    requires objc
+}

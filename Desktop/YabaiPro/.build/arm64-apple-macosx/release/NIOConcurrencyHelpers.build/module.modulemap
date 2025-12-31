@@ -1,0 +1,4 @@
+module NIOConcurrencyHelpers {
+    header "/Users/jakeshore/Desktop/YabaiPro/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOConcurrencyHelpers-Swift.h"
+    requires objc
+}

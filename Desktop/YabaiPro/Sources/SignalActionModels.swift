@@ -75,6 +75,8 @@ struct SignalAction: Codable, Identifiable, Equatable {
 
         // Custom shell command
         case shellCommand = "shell_command"
+        // Rule creation (add a yabai rule)
+        case ruleAdd = "rule_add"
     }
 
     var displayName: String {
@@ -130,6 +132,7 @@ struct SignalAction: Codable, Identifiable, Equatable {
         case .configMouseFollowsFocus: return "Set Mouse Follows Focus"
         case .configFocusFollowsMouse: return "Set Focus Follows Mouse"
         case .shellCommand: return "Run Shell Command"
+        case .ruleAdd: return "Add Yabai Rule"
         }
     }
 
@@ -310,6 +313,36 @@ struct SignalAction: Codable, Identifiable, Equatable {
 
         case .shellCommand:
             return parameters["command"] ?? ""
+        case .ruleAdd:
+            // Build a yabai rule add command from provided parameters
+            var parts: [String] = ["yabai", "-m", "rule", "--add"]
+
+            func addArg(_ key: String, _ fmt: ((String) -> String)? = nil) {
+                if let val = parameters[key], !val.isEmpty {
+                    let v = fmt?(val) ?? val
+                    parts.append("\(key)=\(v)")
+                }
+            }
+
+            // app/title/role/subrole - wrap in quotes if they contain spaces
+            addArg("app", { v in "\"\(v.replacingOccurrences(of: "\"", with: "\\\""))\"" })
+            addArg("title", { v in "\"\(v.replacingOccurrences(of: "\"", with: "\\\""))\"" })
+            addArg("role", nil)
+            addArg("subrole", nil)
+
+            // Boolean flags: manage, sticky, mouse_follows_focus -> on/off
+            addArg("manage", nil)
+            addArg("sticky", nil)
+            addArg("mouse_follows_focus", nil)
+
+            // Opacity / sub-layer / label
+            if let opacity = parameters["opacity"], !opacity.isEmpty {
+                parts.append("opacity=\(opacity)")
+            }
+            addArg("sub-layer", nil)
+            addArg("label", { v in "\"\(v.replacingOccurrences(of: "\"", with: "\\\""))\"" })
+
+            return parts.joined(separator: " ")
         }
 
         return "# Invalid command configuration"
@@ -441,6 +474,20 @@ struct CommandSchema {
         case .configWindowOpacityActive, .configWindowOpacityNormal:
             return CommandSchema(command: command, parameters: [
                 ParameterSchema(key: "opacity", label: "Opacity", type: .slider(min: 0.0, max: 1.0, step: 0.1), required: true, defaultValue: "1.0")
+            ])
+
+        case .ruleAdd:
+            return CommandSchema(command: command, parameters: [
+                ParameterSchema(key: "app", label: "Application (bundle/display name)", type: .text, required: false, defaultValue: ""),
+                ParameterSchema(key: "title", label: "Window Title (optional)", type: .text, required: false, defaultValue: ""),
+                ParameterSchema(key: "role", label: "Role", type: .picker, required: false, defaultValue: "", options: ["AXWindow","AXDialog","AXSheet"]),
+                ParameterSchema(key: "subrole", label: "Subrole", type: .picker, required: false, defaultValue: "", options: ["AXStandardWindow","AXDialog","AXSystemDialog"]),
+                ParameterSchema(key: "manage", label: "Manage Window", type: .picker, required: false, defaultValue: "on", options: ["on","off"]),
+                ParameterSchema(key: "sticky", label: "Sticky", type: .picker, required: false, defaultValue: "off", options: ["on","off"]),
+                ParameterSchema(key: "mouse_follows_focus", label: "Mouse Follows Focus", type: .picker, required: false, defaultValue: "off", options: ["on","off"]),
+                ParameterSchema(key: "opacity", label: "Opacity (0.0-1.0)", type: .slider(min: 0.0, max: 1.0, step: 0.1), required: false, defaultValue: "1.0"),
+                ParameterSchema(key: "sub-layer", label: "Sub Layer", type: .picker, required: false, defaultValue: "normal", options: ["below","normal","above"]),
+                ParameterSchema(key: "label", label: "Label (optional)", type: .text, required: false, defaultValue: "")
             ])
 
         case .shellCommand:

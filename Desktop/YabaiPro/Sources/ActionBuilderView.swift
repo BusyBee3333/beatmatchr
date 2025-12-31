@@ -361,6 +361,7 @@ struct AddActionSheet: View {
         case .windowMoveToSpace: return "square.grid.2x2"
         case .windowMoveToDisplay: return "display"
         case .configWindowOpacity, .configWindowOpacityActive, .configWindowOpacityNormal: return "circle.opacity"
+        case .ruleAdd: return "list.bullet.rectangle"
         case .shellCommand: return "terminal"
         default: return "gear"
         }
@@ -374,6 +375,7 @@ struct AddActionSheet: View {
         case .windowToggleFullscreen: return .green
         case .windowMoveAbsolute, .windowMoveRelative, .windowResizeAbsolute, .windowResizeRelative: return .orange
         case .configWindowOpacity, .configWindowOpacityActive, .configWindowOpacityNormal: return .pink
+        case .ruleAdd: return .teal
         case .shellCommand: return .gray
         default: return .secondary
         }
@@ -434,6 +436,7 @@ extension SignalAction.YabaiCommand {
         case .configWindowShadow: return "Set Window Shadow"
         case .configMouseFollowsFocus: return "Set Mouse Follows Focus"
         case .configFocusFollowsMouse: return "Set Focus Follows Mouse"
+        case .ruleAdd: return "Add Yabai Rule"
         case .shellCommand: return "Run Shell Command"
         }
     }
